@@ -7,6 +7,7 @@ Download the  zip tool first:
 1. go get -u github.com/aws/aws-lambda-go/cmd/build-lambda-zip
 ## Application
 1. go get github.com/aws/aws-lambda-go/lambd
+2. go get github.com/aws/aws-lambda-go/events
 
 ### create build in windows.
 - Cmd> set GOOS=linux
